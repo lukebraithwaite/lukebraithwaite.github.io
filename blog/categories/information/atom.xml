@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Information | Year 7 Drugs Information Project]]></title>
+  <link href="http://yoursite.com/blog/categories/information/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-03-23T18:19:12+00:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Luke Braithwaite]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Drug - the Facts and Fictions]]></title>
+    <link href="http://yoursite.com/blog/2014/03/23/drugs-the-facts-and-fictions/"/>
+    <updated>2014-03-23T17:03:31+00:00</updated>
+    <id>http://yoursite.com/blog/2014/03/23/drugs-the-facts-and-fictions</id>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/image001.jpg"></p>
+
+<p>All drugs are dangerous: this depends on the type and amount you take. If you take a large amount of drugs you are more likely to damage you health. This just like with classes of drugs; class A drugs do more damage than class B drugs and class B drugs do more damage than class C drugs.</p>
+
+<p>Soft drugs lead to hard drugs: This is one of the greatest myths surrounding drug taking so if you take a class C drug like temazepam will not mean you will automatically mean you will be on hard drugs like Heroine; normally this happens because stuff like heroine is mixed into soft drugs so people get on hard drugs.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Drug Laws in the UK]]></title>
+    <link href="http://yoursite.com/blog/2014/03/23/drug-laws-in-the-uk/"/>
+    <updated>2014-03-23T17:02:29+00:00</updated>
+    <id>http://yoursite.com/blog/2014/03/23/drug-laws-in-the-uk</id>
+    <content type="html"><![CDATA[<h2>Classification of drugs and the law:</h2>
+
+<h3>Possession</h3>
+
+<p>This means possessing drugs for your own use. The police can tell your parents, they can also inform Social Services and the Probation Service
+You can be given a warning or be prosecuted, were you will ever be fined or sent to prison.</p>
+
+<h3>Supply</h3>
+
+<p>This is the same as a possession case but your were going to supply drugs to people. With this you are more likely to get prosecuted and the penalties are heavier</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Classification of Drugs]]></title>
+    <link href="http://yoursite.com/blog/2014/03/23/classification-of-drugs/"/>
+    <updated>2014-03-23T17:01:05+00:00</updated>
+    <id>http://yoursite.com/blog/2014/03/23/classification-of-drugs</id>
+    <content type="html"><![CDATA[<p><img src="/images/image003.jpg" title="Class A Drugs" >
+<img src="/images/image005.jpg" title="Class B Drugs" >
+<img src="/images/image007.jpg" title="Class C Drugs" ></p>
+
+<h2>Class A drugs</h2>
+
+<ul>
+<li>Cocaine</li>
+<li>Crack</li>
+<li>Ecstasy</li>
+<li>LSD</li>
+<li>Magic Mushrooms</li>
+<li>Speed (if prepared for injection)</li>
+</ul>
+
+
+<h2>Class B drugs</h2>
+
+<ul>
+<li>Cannabis</li>
+<li>Speed (not prepared for injection)</li>
+</ul>
+
+
+<h2>Class C drugs</h2>
+
+<ul>
+<li>Steroids</li>
+<li>Rohypnol</li>
+<li>Tranquillisers</li>
+<li>Temazepam</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
