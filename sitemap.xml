@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2014/03/23/classification-of-drugs/</loc>
+        <loc>http://lukebraithwaite.github.io/blog/2014/03/23/classification-of-drugs/</loc>
         <lastmod>2014-03-23T18:16:09+00:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2014/03/23/drug-laws-in-the-uk/</loc>
+        <loc>http://lukebraithwaite.github.io/blog/2014/03/23/drug-laws-in-the-uk/</loc>
         <lastmod>2014-03-23T18:17:13+00:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2014/03/23/drugs-the-facts-and-fictions/</loc>
+        <loc>http://lukebraithwaite.github.io/blog/2014/03/23/drugs-the-facts-and-fictions/</loc>
         <lastmod>2014-03-23T18:16:02+00:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://lukebraithwaite.github.io/blog/archives/</loc>
         <lastmod>2014-03-23T18:17:13+00:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://lukebraithwaite.github.io/</loc>
         <lastmod>2014-03-23T18:17:13+00:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://lukebraithwaite.github.io/robots.txt</loc>
         <lastmod>2014-03-23T17:18:17+00:00</lastmod>
     </url>
 </urlset>
